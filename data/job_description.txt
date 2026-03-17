@@ -1,0 +1,37 @@
+Role: GenAI Engineer
+
+Location: Remote
+
+Job Description:
+We are looking for a skilled Generative AI Engineer to design, develop, and deploy AI-powered applications using large language models (LLMs). The candidate should have hands-on experience with modern GenAI frameworks and strong software engineering skills.
+
+Must-Have Skills:
+- Python
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases (FAISS, Chroma, Pinecone)
+- LLM APIs (OpenAI, HuggingFace, NVIDIA)
+
+Important Skills:
+- Prompt Engineering
+- Transformers (BERT, GPT)
+- REST API development
+- Docker / Deployment
+- Git and version control
+
+Nice-to-Have Skills:
+- LangGraph or agent-based workflows
+- Multi-agent systems
+- Knowledge graphs
+- Fine-tuning LLMs
+- Streamlit / Gradio UI development
+
+Experience Requirements:
+- 2+ years in AI/ML or software development
+- Experience building real-world AI applications
+
+Responsibilities:
+- Build and deploy LLM-based applications
+- Design RAG pipelines
+- Optimize prompt strategies
+- Collaborate with cross-functional teams

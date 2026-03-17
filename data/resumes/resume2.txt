@@ -1,0 +1,14 @@
+Name: Neha Patel
+
+Skills:
+Python, LangChain, RAG, Pinecone, HuggingFace, Prompt Engineering
+
+Experience:
+3 years
+
+Projects:
+Created chatbot using LangChain and OpenAI.
+Worked on semantic search systems.
+
+Tools:
+Docker, REST APIs

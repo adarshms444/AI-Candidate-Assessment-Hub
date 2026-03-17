@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-community
+langchain-nvidia-ai-endpoints
+sentence-transformers
+chromadb
+rank_bm25
+python-dotenv
+pypdf
+python-docx
+numpy
+pandas
+tqdm

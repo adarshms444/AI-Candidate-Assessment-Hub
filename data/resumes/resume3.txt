@@ -1,0 +1,13 @@
+Name: Arjun Nair
+
+Skills:
+Python, RAG, FAISS, Transformers, HuggingFace
+
+Experience:
+3 years
+
+Projects:
+Built document retrieval system using FAISS and Transformers.
+
+Tools:
+Flask, Git
